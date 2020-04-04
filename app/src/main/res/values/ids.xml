@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edittext_name" type="id" />
+    <item name="edittext_value" type="id" />
+    <item name="button_submit" type="id" />
+    <item name="textview_name" type="id" />
+    <item name="textview_value" type="id" />
+</resources>
